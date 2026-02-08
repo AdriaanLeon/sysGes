@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="sysges.Client/sysges.Client.csproj" />
+  <Project Path="sysges/sysges.csproj" />
+</Solution>
